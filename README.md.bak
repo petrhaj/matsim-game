@@ -1,14 +1,4 @@
-# Matsim Game
-
-### Main idea
-
-GUI that allows you to dynamically place buildings and roads. Simulate traffic when you are done with placing, could probably also happen at the same time.
-
-
-
-
-
-###Old Matsim stuff
+# matsim-example-project
 
 A small example of how to use MATSim as a library.
 
